@@ -1,5 +1,5 @@
 # EndToEndDVC
-[1] Zhou J, Lv T, Yi X B. End-to-end Distributed Video Coding[C]//2022 Data Compression Conference (DCC). IEEE, 2022: 496-496.<br>
+[1] End-to-end Distributed Video Coding[C]//2022 Data Compression Conference (DCC). IEEE, 2022: 496-496.<br>
 https://sigport.org/documents/end-end-distributed-video-coding
 
 # 环境配置
